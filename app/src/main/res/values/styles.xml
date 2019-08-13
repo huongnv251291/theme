@@ -8,8 +8,9 @@
     </style>
 
     <style name="ThreeDeeAnyKeyboardPopupTheme">
-        <item name="android:background">@drawable/popup_background</item>
+        <item name="android:background">@drawable/btn_key_bg</item>
         <item name="keyPreviewTextSize">0px</item>
+        <item name="keyBackground">@drawable/btn_bg_pop_up</item>
     </style>
     <style name="ThreeDeeAnyKeyboardTheme">
         <item name="android:background">@drawable/background</item>
@@ -20,8 +21,9 @@
         <item name="keyLargeHeight">@dimen/default_key_tall_height</item>
         <item name="keyNormalHeight">@dimen/default_key_height</item>
         <item name="keySmallHeight">@dimen/default_key_half_height</item>
-        <item name="keyTextColor">#ff000000</item>
-        <item name="previewAnimationType">extend_key</item>
+        <item name="keyTextColor">#ffffffff</item>
+        <item name="previewAnimationType">none</item>
+        <item name="keyPreviewBackground">@drawable/drawavle_btn_key_bg</item>
         <item name="keyTextSize">@dimen/key_text_size</item>
         <item name="keyTextStyle">normal</item>
         <item name="keyVerticalGap">@dimen/default_key_vertical_gap</item>

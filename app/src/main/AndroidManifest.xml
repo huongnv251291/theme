@@ -28,6 +28,15 @@
             <meta-data
                 android:name="com.anysoftkeyboard.plugindata.keyboardtheme"
                 android:resource="@xml/three_d_themes" />
+            <meta-data
+                android:name="com.anysoftkeyboard.plugindata.keyboardtheme"
+                android:resource="@xml/three_d_themes" />
+            <meta-data
+                android:name="com.anysoftkeyboard.plugindata.keyboardtheme"
+                android:resource="@xml/three_d_themes" />
+            <meta-data
+                android:name="com.anysoftkeyboard.plugindata.keyboardtheme"
+                android:resource="@xml/three_d_themes" />
         </receiver>
     </application>
 
