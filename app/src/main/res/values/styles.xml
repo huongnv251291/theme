@@ -8,12 +8,12 @@
     </style>
 
     <style name="ThreeDeeAnyKeyboardPopupTheme">
-        <item name="android:background">@drawable/btn_key_bg</item>
+        <item name="android:background">@drawable/bg_list_popup</item>
         <item name="keyPreviewTextSize">0px</item>
         <item name="keyBackground">@drawable/btn_bg_pop_up</item>
     </style>
     <style name="ThreeDeeAnyKeyboardTheme">
-        <item name="android:background">@drawable/background</item>
+        <item name="android:background">@drawable/bg_keyboard1080x720</item>
         <item name="backgroundDimAmount">0.7</item>
         <item name="hintTextColor">#ff333333</item>
         <item name="keyBackground">@drawable/btn_keyboard_key</item>
@@ -23,7 +23,7 @@
         <item name="keySmallHeight">@dimen/default_key_half_height</item>
         <item name="keyTextColor">#ffffffff</item>
         <item name="previewAnimationType">none</item>
-        <item name="keyPreviewBackground">@drawable/drawavle_btn_key_bg</item>
+        <item name="keyPreviewBackground">@drawable/bg_popup</item>
         <item name="keyTextSize">@dimen/key_text_size</item>
         <item name="keyTextStyle">normal</item>
         <item name="keyVerticalGap">@dimen/default_key_vertical_gap</item>
